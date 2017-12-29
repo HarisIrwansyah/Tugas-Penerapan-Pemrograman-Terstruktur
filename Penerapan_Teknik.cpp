@@ -46,5 +46,11 @@ int main(){
 		cout << a3c[c]<< " | ";	c++;}
 		while (c<5);cout << endl;
 		
-	cout << endl;	
+	cout << endl;
+	cout << "MATRIKS R : "<< endl;
+	
+	int d=0;
+		do{
+		cout << Ra1c[d]<< " | ";	d++;}
+		while (d<5);cout << endl;	
 }
