@@ -73,4 +73,9 @@ int main(){
 	cout << endl;
 	cout << "MATRIKS R * W : "<< endl;
 	
+	int h=0;
+		do{
+		cout << RWa1c[h]<< " | ";	h++;}
+		while (h<5);cout << endl;
+
 }
