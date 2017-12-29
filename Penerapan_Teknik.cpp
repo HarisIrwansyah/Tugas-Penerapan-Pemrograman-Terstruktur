@@ -69,4 +69,8 @@ int main(){
 		do{
 		cout << w[g]<< " | ";	g++;}
 		while (g<5);cout << endl;
+		
+	cout << endl;
+	cout << "MATRIKS R * W : "<< endl;
+	
 }
