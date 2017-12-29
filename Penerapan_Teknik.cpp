@@ -60,5 +60,8 @@ int main(){
 	int f=0;
 		do{
 		cout << Ra3c[f]<< " | ";	f++;}
-		while (f<5);cout << endl;	
+		while (f<5);cout << endl;
+		
+	cout << endl;
+	cout << "MATRIKS W : "<< endl;	
 }
