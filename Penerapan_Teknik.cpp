@@ -81,5 +81,8 @@ int main(){
 		do{
 		cout << RWa2c[i]<< " | ";	i++;}
 		while (i<5);cout << endl;
-
+	int j=0;
+		do{
+		cout << RWa3c[j]<< " | ";	j++;}
+		while (j<5);cout << endl;
 }
