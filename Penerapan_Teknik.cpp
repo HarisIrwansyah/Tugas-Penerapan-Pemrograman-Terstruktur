@@ -77,5 +77,9 @@ int main(){
 		do{
 		cout << RWa1c[h]<< " | ";	h++;}
 		while (h<5);cout << endl;
+	int i=0;
+		do{
+		cout << RWa2c[i]<< " | ";	i++;}
+		while (i<5);cout << endl;
 
 }
