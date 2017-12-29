@@ -37,4 +37,9 @@ int main(){
 		do{
 		cout << a1c[a]<< " | ";	a++;}
 		while (a<5);cout << endl;
+	int b=0;	
+		do{
+		cout << a2c[b]<< " | ";	b++;}
+		while (b<5);cout << endl;
+	
 }
