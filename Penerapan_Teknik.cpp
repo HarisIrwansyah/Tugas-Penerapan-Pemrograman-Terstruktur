@@ -44,5 +44,7 @@ int main(){
 	int c=0;	
 		do{
 		cout << a3c[c]<< " | ";	c++;}
-		while (c<5);cout << endl;	
+		while (c<5);cout << endl;
+		
+	cout << endl;	
 }
